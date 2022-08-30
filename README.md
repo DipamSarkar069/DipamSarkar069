@@ -1,6 +1,7 @@
-![Banner](https://user-images.githubusercontent.com/78967360/158324969-32ed223d-7156-48b7-b04c-5382bb5496d3.png)
+![My Pic-modified](https://user-images.githubusercontent.com/96063639/187439567-afb89dce-199b-4cf0-81c6-1087d3b1e114.png)
 
-<h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Jyotirmoy Roy !!</h2>
+
+<h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Dipam Sarkar!!</h2>
 <h3  align="center">A passionate Web Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p>
 
@@ -18,7 +19,7 @@
 <br>
       
 <h2 align="left"> 🏆 Github Profile Trophy</h2>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ItsRoy69&theme=juicyfresh" alt="jyotirmoyroy" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=DipamSarkar069&theme=juicyfresh" alt="DipamSarkar069" /></a> </p>
 
 <hr>
 
