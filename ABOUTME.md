@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dipam Sarkar
-- 👀 I’m interested in Game Programming and Game Development
+- 👀 I’m interested in Game Design and Game Development
 - 🌱 I’m currently learning Game Development using Unity and C++
 - 💞️ I’m looking to collaborate on Game Development Projects
 - 📫 You can contact me through my Email dipamsarkar180@gmail.com
